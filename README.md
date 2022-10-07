@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kunalarora121!
-- 👀 I’m interested in Python Web Development & Content Management!
+- 👀 I’m interested in Python Web Development & WordPress Websites!
 - 🌱 I’m currently learning Django!
 - 💞️ I’m looking to collaborate on Python Web Development Projects!
 - 📫 How to reach me Instagram Id: @filmyadda2
